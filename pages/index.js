@@ -271,6 +271,7 @@ export default function Home({ total, today }) {
                 aria-label="LinkFree promotional video"
                 src="https://www.youtube.com/embed/ff2N8aJlEhc"
                 frameBorder="0"
+                modestbranding="1"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               ></iframe>
